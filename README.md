@@ -65,6 +65,3 @@ Build a neural network model to classify handwritten digits (0–9) using the MN
 - Apply dropout and regularization
 - Hyperparameter tuning
 
----
-Email
-LinkedIn
